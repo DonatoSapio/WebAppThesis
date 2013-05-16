@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<Products>
+  <Product>
+
+    <ID>1</ID>
+    <Title>Biryani</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Biryani.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Biryani.jpg</BigImage>
+    <Description>Meat is flavoured with herbs, spices and seasoning and cooked along with aromatic basmati rice to prepare one of Indian’s finest foods, the Biryani. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Take 500g of chicken, entire contents of this packet, 100g of plain yoghurt and 300ml of water in a cooking pan. Mix well.
+
+2. Cover with a lid and cook on a low heat for 20 minutes.
+
+3. Cook 300g of Basmati rice separately. (Rice recipe is given below).
+
+4. Spread the cooked rice on the cooked chicken in an even layer. Add cashew nuts, raisins and 2 tbsp. Of pure ghee (clarified butter)to it.
+
+5. Cover and let it cook on steam for 10 minutes, on a low heat.
+
+Lamb. Take 500g of lamb, entire contents of this packet, 100g of plain yoghurt and 450ml of water in a cooking pan. Mix well. Cover with a lid and simmer for about 60 minutes on a low heat. Follow the rest of the recipe as above.
+
+Vegetable. Take 500g of vegetables, entire contents of this packet, 50g of plain of plain yoghurt and 450ml of water in a cooking pan. Mix well. Cover with a lid and simmer for about 20 minutes on a low heat. Follow the rest of the recipe as above.
+
+Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of salt, 1 tea spoon. of sugar and 1 table spoon of oil to the rice. Mix it well and cook until all the water has evaporated.
+
+</CookingDetails>
+    <Ingredients>Onion (25%), Refined Sunflower Oil (13%), Coriander Leaves (9%), Garlic (12%), Ginger (12%), Sugar, Salt, Mint Leaves, Green Chilli, Coriander, Fennel, Tomato, Spices, Red Chilli Powder, Turmeric</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>2</ID>
+    <Title>Butter Chicken</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Butter-Chicken.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Butter-Chicken.jpg</BigImage>
+    <Description>The best known chicken dish from the land of Punjab, served in a rich creamy sauce delicately flavoured with nutmeg and saffron. Mild in taste, best served with ‘tandoori rotis’ or naan bread. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails> 
+
+1. Whisk the entire contents of this packet with 225ml. Of water in a bowl to form a smooth.
+
+2. Saute 250g of boneless chicken (small pieces) in 15g of butter on a medium heat till it turns golden brown.
+
+3. Add the mixture from the bowl and simmer on a low heat for about 10 minutes, until the sauce becomes thick.
+
+4. Add 50g of fresh single or double cream and bring to a boil.
+</CookingDetails>
+    <Ingredients>Onion (35%), Refined Sunflower Oil (18%), Coriander Leaves (12%), Garlic (8%), Ginger (8%), Sugar, Salt, Tomato, Spices, Red Chilli Powder, Turmeric</Ingredients>
+    <Origin>India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>3</ID>
+    <Title>Chicken Achari</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Achari.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Achari.jpg</BigImage>
+    <Description>Chicken in a tangy mixture, flavoured with traditional pickle spices.</Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 2 teas spoons of lemon juice (half a lemon) and 6 or 7 table spoons (100g) of plain yoghurt in a bowl to form a smooth.
+
+2. Apply this mixture to 500g of boneless chicken (small pieces).
+
+3. In a non-stick cooking pan, sauté the above mixture in 1 table spoon (15g) of butter on a medium heat for about 15 minutes until the chicken is tender.</CookingDetails>
+    <Ingredients>Refined Sunflower Oil (20%), Coriander Leaves (15%), Garlic (8%), Ginger (8%), Iodized salt, Green Chilli, Spices and Condiments, Turmeric
+</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>4</ID>
+    <Title>Chicken Capsicum and Onion</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Capsicum-and-Onion.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Capsicum-and-Onion.jpg</BigImage>
+    <Description>Chicken in a tangy, sweet and sour masala.</Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 6 or 7 table spoons (100g) of plain yoghurt in a bowl to form a smooth mixture.
+
+2. Apply this mixture to 500g of boneless chicken (small pieces) and saute on a medium heat for about 15 minutes until the chicken is tender.
+
+3. In a cooking pan, saute 3 medium (150g) capsicums and 3 medium (200g) onions (both cut into dices) in 1 table spoon (15g) of butter on a medium heat for 2 minutes.
+
+4. Add 6 or 7 table spons (100g) of tomato ketchup and stir well. Add the cooked chicken to this, stir and serve.</CookingDetails>
+    <Ingredients>Garlic (20%), Ginger (20%), Refined Sunflower Oil (15%), Red Chilli Powder (10%), Salt, Spices, Sugar, Turmeric</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>5</ID>
+    <Title>Chicken Curry</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Curry.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Curry.jpg</BigImage>
+    <Description>A deliciously thick yoghurt, green chilli and coriander based curry as preferred by the Persian rulers who established the Moghul rule in India.</Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Take 500g of chicken, entire contents of this packet, 100g of plain yoghurt and 225ml of water in a cooking pan.
+
+2. Mix it well and cook on a medium heat for about 20 minutes until the chicken is tender.</CookingDetails>
+    <Ingredients>Onion (40%), Refined Sunflower Oil (16%), Coriander Leaves (9%), Garlic (12%), Ginger, Salt, Spices, Green Chilli, Turmeric</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>6</ID>
+    <Title>Chicken Karahi</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Karahi.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Karahi.jpg</BigImage>
+    <Description>This rich sauce has succulent, pieces of chicken with a piquant taste. The sauce is deliciously thick with capsicum and onion. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails></CookingDetails>
+    <Ingredients>Onion (42%), Refined Sunflower Oil (13%), Garlic (9.5%), Ginger (9.5%), Coriander Leaves (8%), Mint Leaves (5.5%), Salt (5%), Spices (3.5%), Tomato (3%), Turmeric (1%)</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>7</ID>
+    <Title>Chicken Madras</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Madras.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Madras.jpg</BigImage>
+    <Description>A rich hot sauce flavoured with aromatic spices and a hint of coconut from the land of madras. Best served with naan bread. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Mix the entire contents of this packet with 350ml of water in a cooking pan.
+
+2. Add 300 to 400g of chicken pieces. Simmer on a medium heat for about 20 minutes until the chicken is tender and the sauce become thick.
+
+</CookingDetails>
+    <Ingredients>Onion (31%), Refined Sunflower Oil (13.5%), Desiccated Coconut (8%), Coriander Leaves (8%), Garlic (7.5%), Ginger (7.5%), Salt (7.5%), Green Chilli, Coriander, Spices, Tamarind, Red Chilli Powder, Turmeric</Ingredients>
+   <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>8</ID>
+    <Title>Chicken Tikka Masala</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Tikka-Masala.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Tikka-Masala.jpg</BigImage>
+    <Description>A mild chicken dish in a rich aromatic tomato based sauce,with a hint of mint and coriander. Best served with naan bread or aromatic basmati rice. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 300ml.of water and 100g of plain yoghurt in a bowl to form a smooth mixture.
+
+2. Saute 2250g of boneless chicken (small pieces) in 15g of butter on a medium heat till it turns golden brown.
+
+3. Add the mixture from the bowl and simmer on a low heat for about 10 minutes.
+
+4. Add 50g of fresh single or double cream and bring to a boil.
+
+</CookingDetails>
+    <Ingredients>Onion (29%), Refined Sunflower oil (14%), Coriander Leaves (12.5%), Garlic (9%), Ginger (9%), Tomato (8%), Salt, Spices, Red chilli Powder, Green Chilli, Turmeric</Ingredients>
+     <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>9</ID>
+    <Title>Chickpeas Curry</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chickpeas-Curry.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chickpeas-Curry.jpg</BigImage>
+    <Description>From the land of Punjab, India, this chickpea curry is seasoned with tamarind and a hint of sugar. This dish is best served with Chappati’s and Plain yoghurt. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Take 200g can of chickpeas, entire contents of this packet and 450ml of water in a cooking pan.
+
+2. Mix it well and simmer on a medium heat, stirring occasionally, for 10 minutes until the chickpeas turn soft.
+
+</CookingDetails>
+    <Ingredients>Onion (35%), Refined Sunflower Oil (17.5%), Coriander Leaves (9%), Garlic (7%), Spices (8%), Ginger (4.5%), Tomato, Salt
+, Sugar, Tamarind, Green Chilli, Raw Mango Powder, Turmeric</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>10</ID>
+    <Title>Chutney Chicken</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chutney-Chicken.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chutney-Chicken.jpg</BigImage>
+    <Description>Chicken cooked to perfection in a thick mixture of Indian spices and green herbs. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 3 table spoons (50g) of plain yoghurt and 3 table spoons of water in a bowl to form a smooth mixture.
+
+2. In a cooking pan, sauté 250g of boneless chicken (small pieces) in 1 table spoon (15g) of butter on a medium flame till it turns golden brown (5 to 6 minutes).
+
+3. Add the mixture from the bowl, stir and simmer on a low flame for about 2 to 3 minutes until the chicken is tender.
+
+</CookingDetails>
+    <Ingredients>Onion (10%), Refined Sunflower Oil (15%), Coriander Leaves (14%), Garlic (20%), Ginger, Salt, Mint Leaves, Green Chilli (8%), Spices and Condiments, Turmeric</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>11</ID>
+    <Title>Fish Fry</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/fish-fry.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/fish-fry.jpg</BigImage>
+    <Description>Fresh fish in a mixture of Indian spices and green herbs, shallow fried to perfection. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 2 table spoons of white vinegar and 2 table spoons of water in a bowl to form a smooth mixture.
+
+2. Apply this mixture to 350g – 400g of fish slices of your choice.
+
+3. Heat 2 tea spoons of oil in a non-stick frying pan. Place the fish slices and cook on a low heat for 4-5 minutes.</CookingDetails>
+    <Ingredients>Refined Sunflower Oil (8%), Coriander Leaves (15%), Garlic (25%), Ginger (6%), Salt, Mint Leaves, Green Chilli (10%), Spices and Condiments, Tamarind, Turmeric</Ingredients>
+   <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>12</ID>
+    <Title>Goan Fish Curry</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Goan-Fish-Curry.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Goan-Fish-Curry.jpg</BigImage>
+    <Description>Goa – best known for its beautiful beatches and exotic cuisine, brings this popular local dish. A rich coconut based sauce fused with assorted spices from this region of India.</Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 300ml of water and 150ml of thick coconut milk in a cooking pan.
+
+2. Cook the mixture on a medium heat and bring to a boil. Add 400g to 500g of fish of your choice (cut into slices).
+
+3. Simmer on a low heat for about 5 to 7minutes, till the fish is completely done.
+
+</CookingDetails>
+    <Ingredients>Onion (41%), Refined Sunflower Oil (10.5%), Desiccated Coconut (9.5%), Coriander Leaves (9%), Garlic, Ginger, Salt (6.5%), Spices, Red Chilli Powder, Tamarind, Coriander Seeds, Turmeric</Ingredients>
+   <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>13</ID>
+    <Title>Lamb Curry</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Lamb-Curry.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Lamb-Curry.jpg</BigImage>
+    <Description>Tender pieces of lamb flaovered with herbs, spices and seasoning and best served witharomatic basmati rice or naan bread to make one of India’s finest and favourite dishes. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 900ml 0f water in a cooking pan.
+
+2. Add 500g of lamb pieces and stir well.
+
+3. Cover with a lid and simmer on a medium heat for about 60 minutes until the lamb is tender.</CookingDetails>
+    <Ingredients>Onion (39%), Refined Sunflower Oil (14.5%), Coriander Leaves (8%), Garlic (8.5%), Ginger (8.5%), Salt, Mint Leaves, Green Chilli, Coriander, Spices, Red Chilli Powder, Tomato, Turmeric</Ingredients>
+   <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>14</ID>
+    <Title>Rogan Josh</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Rogan-Josh.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Rogan-Josh.jpg</BigImage>
+    <Description>Brought to India by the mughal empire, adapted in India in Kashmir. Onions and tomatoes tone down this fiery sounding culinary delight.</Description>
+    <Price>2.99€</Price>
+    <CookingDetails>1. Whisk the entire contents of this packet with 750ml. Of hot water in a bowl to form a smooth
+
+2. In frying pan, Saute 500g of lamb in tspb. of oil on a medium heat, until the excess water evaporates and the lamb starts it turning golden brown.
+
+3. Add the mixture from the bowl and simmer on a low heat until the sauce becomes thick and the lamb is tender.
+
+</CookingDetails>
+    <Ingredients>Onion (45%), Refined Sunflower Oil (14%), Coriander Leaves (10%), Garlic (8%), Ginger, Salt, Tomato, Spices, Red Chilli Powder, Green Chilli, Turmeric</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>15</ID>
+    <Title>Tandoori Chicken</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Tandoori-Chicken.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Tandoori-Chicken.jpg</BigImage>
+    <Description>This dish is named after the Indian Tandoor, a clay oven in which the meat is cooked after it has been marinated in yoghurt and spices. Now not only a favourite in India, but across the globe.</Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Take entire of this packet and 100g of plain yoghurt in a bowl. Mix it well.
+
+2. Apply this mixture to 1kg of chicken and grill it on a medium heat, turning regularly until the chicken is cooked.</CookingDetails>
+    <Ingredients>Refined Sunflower Oil (13%), Garlic (32%), Ginger (20%), Salt (17.5%), Spices (14.5%), Red chilli powder, Turmeric</Ingredients>
+    <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>16</ID>
+    <Title>Vindaloo</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Vindaloo.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Vindaloo.jpg</BigImage>
+    <Description>Not for the faint hearted. Cooked in a rich sauce consisting of assorted chillies from all over India. Best served with naan bread and a cold drink.</Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. Apply 2 table spoons of vinegar to 500g of lamb and marinate for 30 minutes.
+
+2. Whisk the entire contents of this packet with 750ml of hot water in a bowl to form a smooth.
+
+3. After marination, sauté the lamb on a medium heat, in a frying pan, until the excess water evaporates and the lamb starts turning golden brown.
+
+4. Add the mixture from the bowl and simmer on a low heat until the sauce becomes thick and the lamb is tender.
+
+</CookingDetails>
+    <Ingredients>Onion (36%), Refined Sunflower Oil (13%), Coriander Leaves (7.5%), Tomato (8%), Garlic, Ginger, Salt, Green Chilli, Spices, Red chilli powder, Tamarind, Turmeric
+</Ingredients>
+     <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+  <Product>
+    <ID>17</ID>
+    <Title>Jalfrezi</Title>
+    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Jalfrezi.jpg</Thumbnail>
+    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Jalfrezi.jpg</BigImage>
+    <Description>A delicious chicken dish cooked in a thick creamy sauce. Best served with Basmati rice or Chappati’s. </Description>
+    <Price>2.99 €</Price>
+    <CookingDetails>1. In a cooking pan, sauté 50g of capsicum and 50g of onion (both cut into long strips) in 1 tbsp. (10g) of butter on a medium heat for 1 minute. Keep it aside.
+
+2. Whisk the entire contents of this packet with 2 tbs. Of plain yoghurt and 250ml.of water in a bowl to form a smooth mixture.
+
+3. In a frying pan, Sauté 250g of boneless chicken(small pieces) in 10g of butter until the chicken turns golden brown.
+
+4. Add the mixture from the bowl and simmer on a low heat until the sauce becomes thick.
+
+5. Add 50g of fresh single or double cream and bring to a boil. Add the sauted capsicum, onion and mix well.</CookingDetails>
+    <Ingredients>Onion (43%), Refined Sunflower Oil (15%), Coriander Leaves (8.5%), Garlic (7.5%), Ginger (7.5%), Red Chilli Powder, Salt
+, Mint Leaves, Spices, Turmer</Ingredients>
+   <Origin>Pune, India</Origin>
+    <TypeOfUser>Vegetarian, Vegan</TypeOfUser>
+  </Product>
+
+</Products>
+

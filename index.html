@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html manifest="fintia.appcache">
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Fintia Oy | Finland </title>
+
+<!-- Importing JQuery mobile -->
+
+        <script src="libraries/jquery.mobile.themeswitcher.js"></script>
+        <script src="libraries/jqm-docs.js"></script>
+        <link rel="stylesheet" href="css/jqm-docs.css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
+        <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+
+<!-- End of importing JQuery mobile -->
+</head> 
+
+<body>
+
+        <div data-role="page" id="cacheMe" data-dom-cache="true">
+
+                <div data-role="header" >
+                <h1>
+                                <img  src="Images/fintia.jpg" />
+                        </h1>
+                
+                       
+
+                        <div data-role="navbar">
+                                <ul>
+                                        <li><a href="index.html" class="ui-btn-active" data-icon="home" >Home</a></li>
+                                        <li><a href="products.html" rel="external"  data-icon="plus">Products</a></li>
+                                        <li><a href="about.html" rel="external"  data-icon="grid">About</a></li>
+                                        <li><a href="contact.html" rel="external"  data-icon="info">Contact</a></li>
+                                </ul>
+                        </div>
+                </div>
+                
+                
+                <div data-role="content">
+                        <p>Wellcome to Curry Tree, the most famous Indian's spicy</p>
+                        <h1>
+                                <img width='350' height='200' border='0' src="Images/curryMain.jpg" alt="Fintia Oy" />
+                        </h1>
+
+                        <p>  Today is: 
+                        </p>
+                        
+                        <script type="text/javascript">
+
+                        var d_names = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+
+                        var m_names = new Array("January", "February", "March",  "April", "May", "June", "July", "August", "September", 
+                        "October", "November", "December");
+
+                        var d = new Date();
+                        var curr_day = d.getDay();
+                        var curr_date = d.getDate();
+                        var curr_month = d.getMonth();
+                        var curr_year = d.getFullYear();
+                        var sup = "";
+                        
+                        if (curr_date == 1 || curr_date == 21 || curr_date ==31)
+                        {
+                                sup = "st";
+                        }
+                        else if (curr_date == 2 || curr_date == 22)
+                        {
+                                sup = "nd";
+                        }
+                        else if (curr_date == 3 || curr_date == 23)
+                        {
+                                sup = "rd";
+                        }
+                        else
+                        {
+                                sup = "th";
+                        }
+  
+
+                       document.write(d_names[curr_day] + " " + curr_date + "<sup>"
+                       + sup + "</sup> " + m_names[curr_month] + " " + curr_year);
+
+                        </script> 
+                </div>
+
+                <footer data-role="footer">
+                        <h4> <a href="http://www.currytree.fi">www.currytree.fi</a></h4>
+                </footer>
+
+        </div>
+</body>
+</html>
+
+

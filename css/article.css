@@ -1,0 +1,28 @@
+h1 {
+   margin-bottom: 0;
+}
+img {
+    max-width: 300px;
+}
+/* HIGHLIGHTER */.dp-highlighter ol {
+margin-left:0 !important;
+}
+
+.dp-highlighter .bar {
+padding-left:30px !important;
+}
+
+
+/* SYNTAX HIGHLIGHTER */
+.dp-highlighter {
+font-family:"Consolas", "Courier New", Courier, mono;
+font-size:12px;
+background-color:#E7E5DC;
+width:99%;
+overflow:auto;
+margin:18px 0px 18px 0px;
+padding-top:1px;
+}
+
+.dp-highlighter .bar {
+padding-left:45px;
