@@ -1,74 +1,98 @@
 <!DOCTYPE html>
-<html>
+<html manifest="fintia.appcache">
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Webappthesis : WebAppThesis" />
+        <title>Fintia Oy | Finland </title>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+<!-- Importing JQuery mobile -->
 
-    <title>Webappthesis</title>
-  </head>
+        <script src="libraries/jquery.mobile.themeswitcher.js"></script>
+        <script src="libraries/jqm-docs.js"></script>
+        <link rel="stylesheet" href="css/jqm-docs.css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
+        <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
 
-  <body>
+<!-- End of importing JQuery mobile -->
+</head> 
 
-      <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/marcostong17/WebAppThesis">View on GitHub</a>
+<body>
 
-          <h1 id="project_title">Webappthesis</h1>
-          <h2 id="project_tagline">WebAppThesis</h2>
+        <div data-role="page" id="cacheMe" data-dom-cache="true">
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/marcostong17/WebAppThesis/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/marcostong17/WebAppThesis/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
+                <div data-role="header" >
+                <h1>
+                                <img  src="Images/fintia.jpg" />
+                        </h1>
+                
+                       
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>Welcome to GitHub Pages.</h3>
+                        <div data-role="navbar">
+                                <ul>
+                                        <li><a href="index.html" class="ui-btn-active" data-icon="home" >Home</a></li>
+                                        <li><a href="products.html" rel="external"  data-icon="plus">Products</a></li>
+                                        <li><a href="about.html" rel="external"  data-icon="grid">About</a></li>
+                                        <li><a href="contact.html" rel="external"  data-icon="info">Contact</a></li>
+                                </ul>
+                        </div>
+                </div>
+                
+                
+                <div data-role="content">
+                        <p>Wellcome to Curry Tree, the most famous Indian's spicy</p>
+                        <h1>
+                                <img width='350' height='200' border='0' src="Images/curryMain.jpg" alt="Fintia Oy" />
+                        </h1>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+                        <p>  Today is: 
+                        </p>
+                        
+                        <script type="text/javascript">
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+                        var d_names = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+                        var m_names = new Array("January", "February", "March",  "April", "May", "June", "July", "August", "September", 
+                        "October", "November", "December");
 
-<h3>Designer Templates</h3>
+                        var d = new Date();
+                        var curr_day = d.getDay();
+                        var curr_date = d.getDate();
+                        var curr_month = d.getMonth();
+                        var curr_year = d.getFullYear();
+                        var sup = "";
+                        
+                        if (curr_date == 1 || curr_date == 21 || curr_date ==31)
+                        {
+                                sup = "st";
+                        }
+                        else if (curr_date == 2 || curr_date == 22)
+                        {
+                                sup = "nd";
+                        }
+                        else if (curr_date == 3 || curr_date == 23)
+                        {
+                                sup = "rd";
+                        }
+                        else
+                        {
+                                sup = "th";
+                        }
+  
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+                       document.write(d_names[curr_day] + " " + curr_date + "<sup>"
+                       + sup + "</sup> " + m_names[curr_month] + " " + curr_year);
 
-<h3>Rather Drive Stick?</h3>
+                        </script> 
+                </div>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+                <footer data-role="footer">
+                        <h4> <a href="http://www.currytree.fi">www.currytree.fi</a></h4>
+                </footer>
 
-<h3>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Webappthesis maintained by <a href="https://github.com/marcostong17">marcostong17</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
+        </div>
+</body>
 </html>
+
+
