@@ -4,8 +4,8 @@
 
     <ID>1</ID>
     <Title>Biryani</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Biryani.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Biryani.jpg</BigImage>
+    <Thumbnail>Images/thumb/Biryani.jpg</Thumbnail>
+    <BigImage>Images/iso/Biryani.jpg</BigImage>
     <Description>Meat is flavoured with herbs, spices and seasoning and cooked along with aromatic basmati rice to prepare one of Indian’s finest foods, the Biryani. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Take 500g of chicken, entire contents of this packet, 100g of plain yoghurt and 300ml of water in a cooking pan. Mix well.
@@ -33,8 +33,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>2</ID>
     <Title>Butter Chicken</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Butter-Chicken.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Butter-Chicken.jpg</BigImage>
+    <Thumbnail>Images/thumb/Butter-Chicken.jpg</Thumbnail>
+    <BigImage>Images/iso/Butter-Chicken.jpg</BigImage>
     <Description>The best known chicken dish from the land of Punjab, served in a rich creamy sauce delicately flavoured with nutmeg and saffron. Mild in taste, best served with ‘tandoori rotis’ or naan bread. </Description>
     <Price>2.99 €</Price>
     <CookingDetails> 
@@ -55,8 +55,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>3</ID>
     <Title>Chicken Achari</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Achari.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Achari.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chicken-Achari.jpg</Thumbnail>
+    <BigImage>Images/iso/Chicken-Achari.jpg</BigImage>
     <Description>Chicken in a tangy mixture, flavoured with traditional pickle spices.</Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 2 teas spoons of lemon juice (half a lemon) and 6 or 7 table spoons (100g) of plain yoghurt in a bowl to form a smooth.
@@ -73,8 +73,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>4</ID>
     <Title>Chicken Capsicum and Onion</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Capsicum-and-Onion.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Capsicum-and-Onion.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chicken-Capsicum-and-Onion.jpg</Thumbnail>
+    <BigImage>Images/iso/Chicken-Capsicum-and-Onion.jpg</BigImage>
     <Description>Chicken in a tangy, sweet and sour masala.</Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 6 or 7 table spoons (100g) of plain yoghurt in a bowl to form a smooth mixture.
@@ -92,8 +92,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>5</ID>
     <Title>Chicken Curry</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Curry.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Curry.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chicken-Curry.jpg</Thumbnail>
+    <BigImage>Images/iso/Chicken-Curry.jpg</BigImage>
     <Description>A deliciously thick yoghurt, green chilli and coriander based curry as preferred by the Persian rulers who established the Moghul rule in India.</Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Take 500g of chicken, entire contents of this packet, 100g of plain yoghurt and 225ml of water in a cooking pan.
@@ -107,8 +107,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>6</ID>
     <Title>Chicken Karahi</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Karahi.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Karahi.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chicken-Karahi.jpg</Thumbnail>
+    <BigImage>Images/iso/Chicken-Karahi.jpg</BigImage>
     <Description>This rich sauce has succulent, pieces of chicken with a piquant taste. The sauce is deliciously thick with capsicum and onion. </Description>
     <Price>2.99 €</Price>
     <CookingDetails></CookingDetails>
@@ -120,8 +120,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>7</ID>
     <Title>Chicken Madras</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Madras.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Madras.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chicken-Madras.jpg</Thumbnail>
+    <BigImage>Images/iso/Chicken-Madras.jpg</BigImage>
     <Description>A rich hot sauce flavoured with aromatic spices and a hint of coconut from the land of madras. Best served with naan bread. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Mix the entire contents of this packet with 350ml of water in a cooking pan.
@@ -137,8 +137,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>8</ID>
     <Title>Chicken Tikka Masala</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chicken-Tikka-Masala.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chicken-Tikka-Masala.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chicken-Tikka-Masala.jpg</Thumbnail>
+    <BigImage>Images/iso/Chicken-Tikka-Masala.jpg</BigImage>
     <Description>A mild chicken dish in a rich aromatic tomato based sauce,with a hint of mint and coriander. Best served with naan bread or aromatic basmati rice. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 300ml.of water and 100g of plain yoghurt in a bowl to form a smooth mixture.
@@ -158,8 +158,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>9</ID>
     <Title>Chickpeas Curry</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chickpeas-Curry.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chickpeas-Curry.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chickpeas-Curry.jpg</Thumbnail>
+    <BigImage>Images/iso/Chickpeas-Curry.jpg</BigImage>
     <Description>From the land of Punjab, India, this chickpea curry is seasoned with tamarind and a hint of sugar. This dish is best served with Chappati’s and Plain yoghurt. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Take 200g can of chickpeas, entire contents of this packet and 450ml of water in a cooking pan.
@@ -176,8 +176,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>10</ID>
     <Title>Chutney Chicken</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Chutney-Chicken.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Chutney-Chicken.jpg</BigImage>
+    <Thumbnail>Images/thumb/Chutney-Chicken.jpg</Thumbnail>
+    <BigImage>Images/iso/Chutney-Chicken.jpg</BigImage>
     <Description>Chicken cooked to perfection in a thick mixture of Indian spices and green herbs. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 3 table spoons (50g) of plain yoghurt and 3 table spoons of water in a bowl to form a smooth mixture.
@@ -195,8 +195,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>11</ID>
     <Title>Fish Fry</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/fish-fry.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/fish-fry.jpg</BigImage>
+    <Thumbnail>Images/thumb/fish-fry.jpg</Thumbnail>
+    <BigImage>Images/iso/fish-fry.jpg</BigImage>
     <Description>Fresh fish in a mixture of Indian spices and green herbs, shallow fried to perfection. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 2 table spoons of white vinegar and 2 table spoons of water in a bowl to form a smooth mixture.
@@ -212,8 +212,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>12</ID>
     <Title>Goan Fish Curry</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Goan-Fish-Curry.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Goan-Fish-Curry.jpg</BigImage>
+    <Thumbnail>Images/thumb/Goan-Fish-Curry.jpg</Thumbnail>
+    <BigImage>Images/iso/Goan-Fish-Curry.jpg</BigImage>
     <Description>Goa – best known for its beautiful beatches and exotic cuisine, brings this popular local dish. A rich coconut based sauce fused with assorted spices from this region of India.</Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 300ml of water and 150ml of thick coconut milk in a cooking pan.
@@ -231,8 +231,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>13</ID>
     <Title>Lamb Curry</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Lamb-Curry.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Lamb-Curry.jpg</BigImage>
+    <Thumbnail>Images/thumb/Lamb-Curry.jpg</Thumbnail>
+    <BigImage>Images/iso/Lamb-Curry.jpg</BigImage>
     <Description>Tender pieces of lamb flaovered with herbs, spices and seasoning and best served witharomatic basmati rice or naan bread to make one of India’s finest and favourite dishes. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 900ml 0f water in a cooking pan.
@@ -248,8 +248,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>14</ID>
     <Title>Rogan Josh</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Rogan-Josh.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Rogan-Josh.jpg</BigImage>
+    <Thumbnail>Images/thumb/Rogan-Josh.jpg</Thumbnail>
+    <BigImage>Images/iso/Rogan-Josh.jpg</BigImage>
     <Description>Brought to India by the mughal empire, adapted in India in Kashmir. Onions and tomatoes tone down this fiery sounding culinary delight.</Description>
     <Price>2.99€</Price>
     <CookingDetails>1. Whisk the entire contents of this packet with 750ml. Of hot water in a bowl to form a smooth
@@ -267,8 +267,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>15</ID>
     <Title>Tandoori Chicken</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Tandoori-Chicken.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Tandoori-Chicken.jpg</BigImage>
+    <Thumbnail>Images/thumb/Tandoori-Chicken.jpg</Thumbnail>
+    <BigImage>Images/iso/Tandoori-Chicken.jpg</BigImage>
     <Description>This dish is named after the Indian Tandoor, a clay oven in which the meat is cooked after it has been marinated in yoghurt and spices. Now not only a favourite in India, but across the globe.</Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Take entire of this packet and 100g of plain yoghurt in a bowl. Mix it well.
@@ -282,8 +282,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>16</ID>
     <Title>Vindaloo</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Vindaloo.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Vindaloo.jpg</BigImage>
+    <Thumbnail>Images/thumb/Vindaloo.jpg</Thumbnail>
+    <BigImage>Images/iso/Vindaloo.jpg</BigImage>
     <Description>Not for the faint hearted. Cooked in a rich sauce consisting of assorted chillies from all over India. Best served with naan bread and a cold drink.</Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. Apply 2 table spoons of vinegar to 500g of lamb and marinate for 30 minutes.
@@ -304,8 +304,8 @@ Rice. Wash 300g of basmati rice. Add 4 ½ cups (675ml) of water, 1 ½ tsp. of sa
   <Product>
     <ID>17</ID>
     <Title>Jalfrezi</Title>
-    <Thumbnail>..//Web_App_Donato_Thesis/Images/thumb/Jalfrezi.jpg</Thumbnail>
-    <BigImage>..//Web_App_Donato_Thesis/Images/iso/Jalfrezi.jpg</BigImage>
+    <Thumbnail>Images/thumb/Jalfrezi.jpg</Thumbnail>
+    <BigImage>Images/iso/Jalfrezi.jpg</BigImage>
     <Description>A delicious chicken dish cooked in a thick creamy sauce. Best served with Basmati rice or Chappati’s. </Description>
     <Price>2.99 €</Price>
     <CookingDetails>1. In a cooking pan, sauté 50g of capsicum and 50g of onion (both cut into long strips) in 1 tbsp. (10g) of butter on a medium heat for 1 minute. Keep it aside.
